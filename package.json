@@ -1,0 +1,22 @@
+{
+  "name": "foundry",
+  "version": "1.0.0",
+  "description": "**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "load": "source .env"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "sharp": "^0.33.5"
+  }
+}
