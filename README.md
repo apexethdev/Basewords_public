@@ -1,7 +1,7 @@
 # Baswords
 
 ## Basewords by deebee.eth
-- **Website**: [Base Colors](https://www.basewords.xyz/)
+- **Website**: [BaseWords](https://www.basewords.xyz/)
 - **Warpcast**: [Deebee on Warpcast](https://warpcast.com/~/channel/basewords)
 - **Contract on Base**: [View Contract on Basescan](https://basescan.org/address/0xe51933706C75f2f828814e1d221c3742c2cfF0df)
 
